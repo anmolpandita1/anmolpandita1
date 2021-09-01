@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+🖥 Call me a Software Engineer
+
+🔭 I’m working on **Cloud** and **DevOps** technologies  | 🌱 I’m learning **AWS** and **Azure**
+
+
+
 <!--
 **anmolpandita1/anmolpandita1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
