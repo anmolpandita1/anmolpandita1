@@ -2,7 +2,7 @@
 
 🖥 Call me a Software Engineer
 
-🔭 I’m working on **Cloud** and **DevOps** technologies  | 🌱 I’m learning **AWS** and **Azure**
+🔭 I’m working on **Cloud** and **DevOps** technologies  | 🌱 I’m learning **GCP** and **AWS**
 
 
 
