@@ -1,9 +1,10 @@
 ### Hi there 👋
 
-🖥 Call me a Software Engineer
+🖥 I am Anmol
 
-🔭 I’m working on **Cloud** and **DevOps** technologies  | 🌱 I’m learning **GCP** and **AWS**
+🔭 I’m currently working on **Cloud** and **DevOps** technologies
 
+🌱 I’m learning **GCP** and **AWS**
 
 
 <!--
